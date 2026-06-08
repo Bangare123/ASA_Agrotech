@@ -11,7 +11,7 @@ import Youtube from "../assets/Youtube.png";
 import Cardmail from "../assets/CardMail.png";
 import Cardmobile from "../assets/CardMobile.png";
 import Cardlocation from "../assets/CardLocation.png";
-import ellipse from "../assets/ellipse.png";
+import ellipse from "../assets/Ellipse.png";
 
 // import {
 //   faPhoneAlt,
