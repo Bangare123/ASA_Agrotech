@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import { useState } from "react";
 import Footer from "../components/Footer";
 import image1 from "../assets/FinanceMain.png";
-import financeicon from "../assets/Financeicon.png";
+import financeicon from "../assets/FinanceIcon.png";
 import image11 from "../assets/FinanceImage1.png";
 import image12 from "../assets/FinanceImage2.png";
 import image13 from "../assets/FinanceImage3.png";
