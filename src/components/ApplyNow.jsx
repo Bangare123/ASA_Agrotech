@@ -1,6 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import upload from "../assets/upload.png";
+import upload from "../assets/Upload.png";
 
 export default function ApplyNow() {
   return (
