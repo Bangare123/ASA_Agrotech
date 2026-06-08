@@ -1,0 +1,255 @@
+@import url("https://fonts.googleapis.com/css2?family=Lufga&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+
+.offer-one {
+  font-family: "Lufga", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0px;
+  color: #9e271a;
+}
+.home-who {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 12.96px;
+  line-height: 19.44px;
+  letter-spacing: 0%;
+  color: #f7f9ff;
+}
+
+.home-whohead {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #eef2ff;
+}
+
+.offer-two {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #9e271a;
+}
+
+.contact-one {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0%;
+  color: #3f7947;
+}
+
+.contact-two {
+  font-family: "Lufga", sans-serif;
+  font-weight: 600;
+
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #3f7947;
+}
+
+.Hero-One {
+  font-family: "Lufga", sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 65px;
+  letter-spacing: 0;
+  vertical-align: middle;
+}
+
+.Hero-Two {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0;
+  vertical-align: middle;
+}
+
+.Hero-span {
+  font-family: "Lufga", sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 65px;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #2b6cb0;
+}
+
+.Hero-right {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.Hero-feature {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.8px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #3457d2;
+}
+
+.feature-card {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 9.65px;
+  line-height: 16.08px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Hero-card {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+.Hero-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+}
+
+.Hero-read {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #2848b8;
+}
+.Home-Learn {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+@media (max-width: 1025px) {
+  .resp-ipad-pro {
+    width: 800px !important;
+  }
+  .ipad-pro-image2 {
+    top: 4017px !important;
+  }
+
+  .ipad-pro-image1 {
+    top: 3709px !important;
+  }
+}
+
+@media (max-width: 821px) {
+  .mobile-column {
+    flex-direction: column !important;
+    width: 100% !important;
+    height: auto !important;
+    margin-left: 0 !important;
+  }
+
+  .mobile-full {
+    width: 100% !important;
+    height: 26rem !important;
+  }
+
+  .mobile-full2 {
+    width: 110% !important;
+    height: 48rem !important;
+  }
+
+  .bird-img {
+    position: static !important;
+    width: 100% !important;
+    height: auto !important;
+    margin-top: -4rem;
+  }
+
+  .reverse-mobile {
+    flex-direction: column-reverse !important;
+  }
+}
+
+@media (max-width: 821px) and (min-width: 767px) {
+  /* Your styles here */
+  .feature-resp {
+    gap: 24px;
+  }
+  .cards-resp {
+    align-items: center;
+  }
+  .image-trans {
+    top: 198rem !important;
+  }
+  .trans-para {
+    gap: 10px !important;
+  }
+  .section-resp {
+    width: 25% !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-whohead {
+    color: black;
+  }
+  .home-who {
+    color: black;
+  }
+  .image-trans {
+    top: 209rem !important;
+  }
+  .image-trans2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    height: 230px !important;
+  }
+  .trans-para {
+    margin-top: 10rem !important;
+  }
+  .cardresp {
+    margin-top: 16rem;
+  }
+  .cards-three {
+    margin-left: 3rem;
+  }
+}
+
+@media (max-width: 431px) {
+  .image-trans {
+    top: 238rem !important;
+  }
+
+  .trans-para {
+    margin-top: 16rem !important;
+  }
+
+  .cards-three {
+    margin-left: 1.8rem;
+  }
+}

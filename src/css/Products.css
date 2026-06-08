@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+
+.product-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600; /* SemiBold is equivalent to 600 */
+  font-style: normal;
+  font-size: 62px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+}
+
+.product-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0.08px;
+  text-align: center;
+  color: #2b6cb0;
+}
+
+.product-card-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 100%;
+  letter-spacing: 0.08px;
+  text-align: center;
+}
+
+@media (max-width: 1025px) and (min-width: 822px) {
+  .product-ipad-resp {
+    justify-content: center !important;
+  }
+  .product-resp-img1 {
+    top: 110px !important;
+  }
+
+  .product-resp-img2 {
+    top: 110px !important;
+  }
+}
+
+@media (max-width: 821px) and (min-width: 767px) {
+  .product-ipad-resp {
+    justify-content: center !important;
+  }
+  .product-card-resp {
+    gap: 18px !important;
+  }
+  .product-card-padding {
+    padding: 1rem !important;
+  }
+  .product-resp-img1 {
+    top: 145px !important;
+  }
+
+  .product-resp-img2 {
+    top: 145px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .product-ipad-resp {
+    justify-content: center !important;
+  }
+  .product-head {
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 100%;
+    letter-spacing: 0.09px;
+    text-align: center;
+  }
+  .responsive-padding {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  .product-resp-img2 {
+    width: 200px !important;
+    height: 250px !important;
+    transform: scaleX(-1) !important;
+    position: absolute !important;
+    right: 1px !important;
+    top: 12px !important;
+  }
+  .product-resp-img1 {
+    width: 200px !important;
+    height: 250px !important;
+    position: absolute !important;
+    left: 1px !important;
+    top: 12px !important;
+  }
+  .product-resp-head {
+    margin-top: 3rem !important;
+  }
+}
+
+@media (max-width: 376px) {
+  .responsive-padding {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  .image-resp-product {
+    width: 250px !important;
+  }
+
+  .image-resp-product2 {
+    width: 240px !important;
+  }
+  .image-resp-product3 {
+    margin-top: 30px !important;
+  }
+}

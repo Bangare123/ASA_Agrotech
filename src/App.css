@@ -1,0 +1,777 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+
+.navbar-one {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15.56px;
+  line-height: 23.33px;
+  letter-spacing: 0;
+}
+
+.Acc-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #2b6cb0;
+}
+
+/* Finance */
+
+.Finance-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700; /* SemiBold is equivalent to 600 */
+  font-style: normal;
+  font-size: 62px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+}
+.Finace-data-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: -0.6px;
+  color: #2b6cb0;
+}
+.Finance-documents {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.table-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+  color: #2b6cb0;
+}
+.table-first-data {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #2b6cb0;
+}
+
+.sustain-join {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 100%;
+  letter-spacing: 1px;
+  vertical-align: middle;
+}
+
+/*Footer section */
+
+.footer-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.footer-data {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.partners-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #4b5563;
+}
+
+/* Contact Us */
+.contact-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 15.96px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #1b365d;
+}
+.contactUs-top {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 62px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+}
+.contactUs-topPara {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+  vertical-align: middle;
+  color: #383838c2;
+}
+.contactNow {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #2b6cb0;
+}
+.Feedback-Head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+
+.Feedback-Form {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 16.57px;
+  line-height: 27.61px;
+  letter-spacing: 0%;
+  color: #5d5959;
+}
+.Feedback-send {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 20.05px;
+  line-height: 30.08px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #ffffff;
+}
+
+.contact-info {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.contact-info-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #c9c9c9;
+}
+
+.blog-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #000000;
+}
+
+/* Apply Now */
+.apply-button {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.apply-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  color: #2b6cb0;
+}
+.apply-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #4b5563;
+}
+
+/* blogs */
+
+.blog-tags {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+  text-align: center;
+  color: #64748b;
+}
+.blog-card-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #262626;
+}
+.blog-card-main {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #020817;
+}
+.blog-card-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #64748b;
+}
+.blog-card-feeder {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #64748b;
+}
+.blog-card-bird {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  color: #020817;
+}
+
+/* Blogs details. */
+.blog-Detail-main {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0;
+  color: #374151;
+}
+.blog-Detail-Para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0;
+  color: #020817;
+}
+.blog-Detail-Head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0;
+  color: #020817;
+}
+.blog-Detail-Main-Head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: 0;
+  color: #020817;
+}
+.blog-Detail-Small-Head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #020817;
+}
+.blog-Detail-Green {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+  color: #15803d;
+}
+/* Sustainability */
+.sustain-card-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 16.94px;
+  line-height: 23.71px;
+  letter-spacing: -0.42px;
+  color: #ffffff;
+}
+.sustain-card-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 13.55px;
+  line-height: 20.32px;
+  letter-spacing: 0%;
+  color: #374151;
+}
+
+.sustain-partner {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14.63px;
+  line-height: 22.4px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #2b6cb0;
+}
+
+/* Our Partners */
+.partners-card-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+}
+
+.navbar-one.active {
+  color: #2b6cb0;
+  font-weight: 600;
+}
+
+.support-centre-tags {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+@media (max-width: 1025px) and (min-width: 822px) {
+  .ipad-pro-navbar1 {
+    gap: 0px !important;
+  }
+  .support-ipad-pro-width {
+    width: 860px !important;
+  }
+  .support-tags {
+    margin-left: -14rem !important;
+  }
+  .support-image2 {
+    top: -20px !important;
+  }
+  .support-image1 {
+    top: -20px !important;
+  }
+  .sustain-resp-img1 {
+    top: 65px !important;
+  }
+  .sustain-resp-img2 {
+    top: 65px !important;
+  }
+  .partners-one {
+    top: -120px !important;
+  }
+  .partners-two {
+    top: -120px !important;
+  }
+  .finance-bird2 {
+    position: absolute !important;
+    right: -70px !important;
+    top: -50px !important;
+    height: 355px !important;
+    width: 350px !important;
+  }
+  .finance-bird1 {
+    position: absolute !important;
+    left: -70px !important;
+    top: -50px !important;
+    height: 355px !important;
+    width: 350px !important;
+  }
+
+  .blogs-main-image2 {
+    transform: scaleX(-1);
+    width: 330px !important;
+    height: 260px !important;
+    position: absolute !important;
+    right: -9px !important;
+    top: -52px !important;
+  }
+
+  .blogs-main-image1 {
+    width: 330px !important;
+    height: 260px !important;
+    position: absolute !important;
+    left: -9px !important;
+    top: -52px !important;
+  }
+
+  .finance-mobile3 {
+    margin-top: 4rem !important;
+  }
+  .blogs-ipad-pro {
+    width: 202px !important;
+  }
+  .blogs-ipad-pro-text {
+    font-size: 50px !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-margin-left {
+    margin-left: -13rem !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .mobile-toggle-container {
+    width: 48px; /* initial toggle size */
+    height: 48px;
+    border-radius: 8px;
+    background-color: rgba(43, 108, 176, 1);
+    transition: width 0.4s ease, height 0.4s ease, border-radius 0.4s ease;
+    overflow: hidden;
+  }
+
+  .mobile-toggle-container.open {
+    width: 240px; /* expanded menu width */
+    height: auto;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .mobile-toggle-container button.navbar-toggler {
+    background: transparent;
+    border: none;
+    width: 48px;
+    height: 48px;
+    position: relative;
+    z-index: 10;
+  }
+
+  .mobile-toggle-container.open button.navbar-toggler {
+    background: transparent;
+  }
+  .support-tags {
+    width: 499px !important;
+    margin-left: -4rem !important;
+  }
+  .mobile-toggle-container .mobile-menu {
+    position: absolute;
+    top: 48px;
+    right: 0;
+    width: 240px;
+    background: white;
+    padding: 1rem;
+    border-radius: 0 0 12px 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease;
+  }
+
+  .mobile-toggle-container .mobile-menu.show {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 821px) and (min-width: 767px) {
+  .support-tags {
+    margin-left: 6rem !important;
+  }
+  .support-image2 {
+    position: absolute !important;
+    height: 230px !important;
+    width: 230px !important;
+    transform: scaleX(-1) rotate(6deg) !important;
+    top: -13px !important;
+    right: -10px !important;
+  }
+
+  .support-image1 {
+    position: absolute !important;
+    height: 230px !important;
+    width: 230px !important;
+    transform: rotate(6deg) !important;
+    top: -13px !important;
+    left: -10px !important;
+  }
+
+  .partners-one {
+    height: 238px !important;
+    width: 238px !important;
+    position: absolute;
+    top: -73px !important;
+    left: -38px !important;
+  }
+
+  .partners-two {
+    height: 238px !important;
+    width: 238px !important;
+    position: absolute;
+    top: -73px !important;
+    right: -38px !important;
+  }
+
+  .finance-bird2 {
+    position: absolute !important;
+    right: -64px !important;
+    top: 100px !important;
+    height: 300px !important;
+    width: 330px !important;
+  }
+
+  .finance-bird1 {
+    position: absolute !important;
+    left: -64px !important;
+    top: 100px !important;
+    height: 300px !important;
+    width: 330px !important;
+  }
+  .blog-image1 {
+    width: 650px !important;
+    height: 420px !important;
+  }
+  .sustain-resp-img1 {
+    width: 210px !important;
+    height: 175px !important;
+    position: absolute !important;
+    left: -59px !important;
+    top: 219px !important;
+    transform: scaleX(-1) rotate(-1deg) !important;
+  }
+
+  .sustain-resp-img2 {
+    width: 210px !important;
+    height: 175px !important;
+    position: absolute !important;
+    right: -59px !important;
+    top: 219px !important;
+    transform: rotate(-1deg) !important;
+  }
+
+  .blogs-main-image2 {
+    width: 300px !important;
+    height: 200px !important;
+    position: absolute !important;
+    right: -13px !important;
+    top: -52px !important;
+  }
+  .blogs-main-image1 {
+    width: 300px !important;
+    height: 200px !important;
+    position: absolute !important;
+    left: -13px !important;
+    top: -52px !important;
+  }
+
+  .partners-card {
+    width: 50% !important;
+  }
+  .contact-card-resp {
+    flex-direction: row !important;
+  }
+  .contact-blue-card {
+    width: 685px !important;
+    height: 500px !important;
+  }
+  .contactusresp1 {
+    width: 260.68px !important;
+    height: 341.78px !important;
+    top: 628px !important;
+    left: -20px !important;
+    transform: scaleX(-1) rotate(14deg) !important;
+    opacity: 1 !important;
+  }
+
+  .contactusresp2 {
+    width: 260.68px !important;
+    height: 341.78px !important;
+    top: -215px !important;
+    right: -32px !important;
+    transform: rotate(20deg) !important;
+    opacity: 1 !important;
+  }
+  .finance-mobile {
+    margin-top: 4rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .finance-mobile {
+    margin-top: 4rem !important;
+  }
+  .Finance-head {
+    font-family: "Outfit", sans-serif;
+    font-weight: 700; /* SemiBold is equivalent to 600 */
+    font-style: normal;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0.09px;
+    text-align: center;
+  }
+  .footer-three {
+    margin-top: 1rem !important;
+  }
+
+  .partners-one {
+    height: 200px !important;
+    width: 200px !important;
+    position: absolute;
+    top: -60px !important;
+    left: -25px !important;
+  }
+
+  .partners-two {
+    height: 200px !important;
+    width: 200px !important;
+    position: absolute;
+    top: -60px !important;
+    right: -25px !important;
+  }
+
+  .contactusresp1 {
+    width: 240.68px !important;
+    height: 288.78px !important;
+    top: 631px !important;
+    left: -49px !important;
+    transform: scaleX(-1) rotate(14deg) !important;
+    opacity: 1 !important;
+  }
+  .contact-send-resp {
+    width: 23rem !important;
+    margin-left: -2rem !important;
+  }
+
+  .contactusresp2 {
+    width: 240.68px !important;
+    height: 288.78px !important;
+    top: -147px !important;
+    right: -49px !important;
+    transform: rotate(14deg) !important;
+    opacity: 1 !important;
+  }
+
+  .contactus-box {
+    width: 335px !important;
+  }
+
+  .contactus-form {
+    border-top-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .blog-image1 {
+    width: 330px !important;
+    height: 300px !important;
+  }
+  .finance-bird2 {
+    position: absolute !important;
+    right: -47px !important;
+    top: 195px !important;
+    height: 200px !important;
+    width: 200px !important;
+  }
+
+  .finance-bird1 {
+    position: absolute !important;
+    left: -47px !important;
+    top: 195px !important;
+    height: 200px !important;
+    width: 200px !important;
+  }
+  .blogs-main-image2 {
+    width: 230px !important;
+    height: 200px !important;
+    position: absolute !important;
+    right: -13px !important;
+    top: -52px !important;
+  }
+
+  .blogs-main-image1 {
+    width: 230px !important;
+    height: 200px !important;
+    position: absolute !important;
+    left: -13px !important;
+    top: -52px !important;
+  }
+
+  .sustain-resp-img1 {
+    width: 160px !important;
+    height: 220px !important;
+    position: absolute !important;
+    left: -25px !important;
+    top: 205px !important;
+    transform: scaleX(-1) rotate(-1deg) !important;
+  }
+
+  .sustain-resp-img2 {
+    width: 160px !important;
+    height: 220px !important;
+    position: absolute !important;
+    right: -25px !important;
+    top: 205px !important;
+    transform: rotate(-1deg) !important;
+  }
+  .support-image2 {
+    position: absolute !important;
+    height: 200px !important;
+    width: 180px !important;
+    transform: scaleX(-1) rotate(6deg) !important;
+    top: -13px !important;
+    right: -20px !important;
+  }
+
+  .support-image1 {
+    position: absolute !important;
+    height: 200px !important;
+    width: 180px !important;
+    transform: rotate(6deg) !important;
+    top: -13px !important;
+    left: -20px !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .contact-send-resp {
+    width: 22.5rem !important;
+    margin-left: -3rem !important;
+  }
+}

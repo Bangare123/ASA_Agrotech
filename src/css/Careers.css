@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+
+.parent-wrapper {
+  position: relative;
+  overflow-x: hidden; /* Prevent horizontal scroll caused by right image */
+}
+
+.Careers-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+.careers-bird-wrapper {
+  position: absolute;
+  top: 5px;
+  right: -165px; /* Match left image offset */
+  width: 338px;
+  height: 338px;
+  transform: scaleX(-1);
+}
+
+.careers-bird-left {
+  position: absolute;
+  top: 5px;
+  left: -165px;
+  width: 338px;
+  height: 338px;
+}
+
+.careers-bird-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.careers-get {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+
+.careers-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+
+.career-salary {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+.careers-job-text {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #4b5563;
+}
+.careers-job-locations {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  color: #000000;
+}
+.careers-inquiry {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #2b6cb0;
+}
+
+.careers-main-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 62px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+  color: #383838;
+}
+
+.careers-main-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0.09px;
+  text-align: center;
+  vertical-align: middle;
+  color: #383838c2;
+}
+
+@media (max-width: 1025px) and (min-width: 822px) {
+  .careers-bird-left {
+    top: 56px;
+  }
+  .careers-bird-wrapper {
+    top: 56px;
+  }
+}
+
+@media (max-width: 821px) and (min-width: 767px) {
+  .careers-bird-left {
+    top: 165px;
+  }
+  .careers-bird-wrapper {
+    top: 165px;
+  }
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .careers-bird-left {
+    left: -90px;
+    width: 250px;
+    height: 250px;
+  }
+
+  .careers-bird-wrapper {
+    right: -80px;
+    width: 250px;
+    height: 250px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .careers-main-head {
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 100%;
+    letter-spacing: 0.09px;
+    text-align: center;
+    color: #383838;
+  }
+  .careers-bird-left {
+    left: -16px;
+    top: -83px;
+    width: 140px;
+    height: 150px;
+  }
+
+  .careers-bird-wrapper {
+    right: -16px;
+    top: -83px;
+    width: 140px;
+    height: 150px;
+  }
+  .careers-main-div {
+    margin-top: 3rem !important;
+  }
+}

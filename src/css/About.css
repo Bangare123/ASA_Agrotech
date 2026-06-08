@@ -1,0 +1,269 @@
+@import url("https://fonts.googleapis.com/css2?family=Lufga&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap");
+
+.company-one {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #000000;
+}
+.company-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 30.29px;
+  line-height: 100%;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #1f2937 !important;
+  text-align: center;
+}
+
+.profile-text {
+  font-family: "Lufga";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: "100%";
+  letter-spacing: 0;
+  vertical-align: middle;
+}
+
+.profile-para1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: "100%";
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #000000;
+}
+
+.profile-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 12.76px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #000000;
+}
+
+.about-vision-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 44.04px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #1f2937;
+}
+
+.about-vision-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #6f6a6a;
+}
+.about-animation {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 20.41px;
+  line-height: 100%;
+  vertical-align: middle;
+  color: #1f2937;
+}
+
+.vision-head {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+
+.about-bottom {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #cacfe2;
+}
+
+.about-bottom-para {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 13.35px;
+  line-height: 1.3;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #cacfe2;
+}
+
+@media (max-width: 1025px) and (min-width: 822px) {
+  .ipad-pro-about {
+    flex-direction: column !important;
+  }
+
+  .about-flex-image {
+    display: flex !important;
+    justify-content: center !important;
+  }
+
+  .About-main-bird2 {
+    height: 280px !important;
+    width: 360px !important;
+    top: 83rem !important;
+    left: 0px !important;
+  }
+
+  .About-main-bird1 {
+    height: 280px !important;
+    width: 360px !important;
+    top: 53rem !important;
+    right: 0px !important;
+  }
+}
+
+@media (max-width: 821px) and (min-width: 767px) {
+  /* Your styles here */
+
+  .About-main-bird2 {
+    height: 256px !important;
+    width: 350px !important;
+    position: absolute;
+    top: 84rem !important;
+    left: -25px !important;
+  }
+
+  .About-main-bird1 {
+    height: 256px !important;
+    width: 350px !important;
+    position: absolute;
+    top: 54rem !important;
+    right: -25px !important;
+  }
+  .about-flex-image {
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .ipad-resp {
+    flex-direction: column !important;
+  }
+  .ipad-space {
+    gap: 3rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .RightCardMobile {
+    padding: 30px 16px;
+  }
+  .company-resp {
+    padding: 30px !important;
+  }
+
+  .About-main-bird2 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 56rem !important;
+    left: -25px !important;
+  }
+  .About-main-bird1 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 98.5rem !important;
+    right: -25px !important;
+  }
+}
+
+@media (max-width: 415px) {
+  .RightCardMobile {
+    padding: 30px 16px;
+  }
+
+  .About-main-bird2 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 57rem !important;
+    left: -25px !important;
+  }
+  .About-main-bird1 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 99.3rem !important;
+    right: -25px !important;
+  }
+}
+
+@media (max-width: 391px) {
+  .About-main-bird2 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 62rem !important;
+    left: -25px !important;
+  }
+  .About-main-bird1 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 104rem !important;
+    right: -25px !important;
+  }
+
+  .RightCardMobile {
+    padding: 64px 16px;
+  }
+}
+
+@media (max-width: 376px) {
+  .About-main-bird2 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 64rem !important;
+    left: -25px !important;
+  }
+  .About-main-bird1 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 106.5rem !important;
+    right: -25px !important;
+  }
+  .RightCardMobile {
+    padding: 64px 16px;
+  }
+}
+
+@media (max-width: 361px) {
+  .about-resp {
+    padding: 0px !important;
+  }
+  .About-main-bird2 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 65rem !important;
+    left: -25px !important;
+  }
+  .About-main-bird1 {
+    height: 156px !important;
+    width: 250px !important;
+    position: absolute;
+    top: 107rem !important;
+    right: -25px !important;
+  }
+}
