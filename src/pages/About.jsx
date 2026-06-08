@@ -9,7 +9,7 @@ import eye from "../assets/Eye.png";
 import mission from "../assets/Mission.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircle } from "@fortawesome/free-solid-svg-icons";
-import aboutImage3 from "../assets/aboutBird.png";
+import aboutImage3 from "../assets/AboutBird.png";
 import "../css/About.css";
 
 const About = () => {
