@@ -8,7 +8,7 @@ import location from "../assets/Location1.png";
 import Facebook from "../assets/Facebook.png";
 import LinkedIn from "../assets/LinkedIn.png";
 import Youtube from "../assets/Youtube.png";
-import Cardmail from "../assets/Cardmail.png";
+import Cardmail from "../assets/CardMail.png";
 import Cardmobile from "../assets/CardMobile.png";
 import Cardlocation from "../assets/CardLocation.png";
 import ellipse from "../assets/ellipse.png";
